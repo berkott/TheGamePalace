@@ -1,0 +1,72 @@
+head, body {
+    background-color: #000000;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-family: "Orbitron";
+	font-size:40px;
+    padding-top: 20px;
+	padding-bottom: 20px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#gameSelect {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+a {
+    background-color: #0b8e00;
+    font-family: "Orbitron";
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+	display: inline-block;
+	margin-top: 126px;
+}
+
+#gobbleGobbleGame {
+    width: 700px;
+    height: 300px;
+    margin: 0 auto;
+    text-align: center;
+	background-image: url(gobbleGobble.png);
+}
+
+#spaceInvadersGame {
+    width: 700px;
+    height: 300px;
+    margin: 0 auto;
+    text-align: center;
+	background-image: url(spaceInvadersGame.png);
+}
+
+#pongGame {
+    width: 700px;
+    height: 300px;
+    margin: 0 auto;
+    text-align: center;
+	background-image: url(pong.png);
+}
+
+#snakeGame {
+    width: 700px;
+    height: 300px;
+    margin: 0 auto;
+    text-align: center;
+	background-image: url(snake.png);
+}
+
+footer {
+    color: #ffffff;
+    text-align: center;
+    font-family: "Orbitron";
+    width: 1000px;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 30px;
+}
